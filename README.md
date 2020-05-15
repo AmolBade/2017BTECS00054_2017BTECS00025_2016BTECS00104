@@ -1,4 +1,4 @@
-# Measure size of objects in an image using OpenCV 
+# Measure size of objects in image 
 
 The project provides a script to read an image and based on the dimensions of a reference object find the dimensions of other objects in a scene. The reference object must be the leftmost object in the scene. In sample images given, a box of dimension 2cm x 2cm is taken as a reference object.
 
@@ -46,7 +46,7 @@ Other prerequisites:
 
 ## Results
 
-![Result](images/img2.jpg?raw=true "Title")
+![Result](images/example_02.png?raw=true "Title")
 
 ## Authors
 
