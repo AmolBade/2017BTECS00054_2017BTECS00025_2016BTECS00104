@@ -46,7 +46,7 @@ Other prerequisites:
 
 ## Results
 
-![Result](images/example_02.png?raw=true "Title")
+![Result](images/size_of_objects_example_02.gif?raw=true "Title")
 
 ## Authors
 
