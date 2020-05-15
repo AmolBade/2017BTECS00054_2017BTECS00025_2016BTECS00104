@@ -1,8 +1,8 @@
 
-# Measuring size of objects in an image
 
-## *General idea*
-     We need to define a ratio that measures the number of pixels per a given metric i.e. Pixel per Metric ratio
+
+
+
      
 
 
