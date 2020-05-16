@@ -44,6 +44,10 @@ Other prerequisites:
 4. Compute results
   - Draw bounding boxes around each object and calculate its height and width
 
+### Run 
+    
+    $python object_size.py --image images/example_02.png --width 0.955
+
 ## Results
 
 ![Result](images/size_of_objects_example_02.gif?raw=true "Title")
